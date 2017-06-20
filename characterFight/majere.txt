@@ -1,0 +1,3 @@
+Majere,elf,49,49,9,
+Clawed Gloves,15,
+Iridescent Robes,7
